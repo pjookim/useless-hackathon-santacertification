@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/useless-hackathon-santacertification/static/css/main.e4d966bf.css",
+    "main.js": "/useless-hackathon-santacertification/static/js/main.21ac9143.js",
+    "static/js/453.925639e7.chunk.js": "/useless-hackathon-santacertification/static/js/453.925639e7.chunk.js",
+    "static/media/map1.png": "/useless-hackathon-santacertification/static/media/map1.247168b51d6393c64d5d.png",
+    "static/media/BSantaC.png": "/useless-hackathon-santacertification/static/media/BSantaC.b64e85dd3e32447b4c2c.png",
+    "static/media/SantaC.png": "/useless-hackathon-santacertification/static/media/SantaC.11b2e8ce934f4c7f59bb.png",
+    "static/media/RuldolphC.png": "/useless-hackathon-santacertification/static/media/RuldolphC.056097b29e7aeb424a54.png",
+    "static/media/smile.png": "/useless-hackathon-santacertification/static/media/smile.1c3884555fa6f524be28.png",
+    "static/media/cry.png": "/useless-hackathon-santacertification/static/media/cry.0037594967009baf3e19.png",
+    "index.html": "/useless-hackathon-santacertification/index.html",
+    "main.e4d966bf.css.map": "/useless-hackathon-santacertification/static/css/main.e4d966bf.css.map",
+    "main.21ac9143.js.map": "/useless-hackathon-santacertification/static/js/main.21ac9143.js.map",
+    "453.925639e7.chunk.js.map": "/useless-hackathon-santacertification/static/js/453.925639e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d966bf.css",
+    "static/js/main.21ac9143.js"
+  ]
+}
